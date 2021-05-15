@@ -1,0 +1,12 @@
+{
+  "buttons": ["bold", "italic"],
+  "toolbarFixed": true,
+  "linkNewTab": true,
+  "visual": false,
+  "tabAsSpaces": 2,
+  "cleanOnPaste": false,
+  "cleanSpaces": false,
+  "cleanStyleOnEnter": true,
+  "paragraphize": false,
+  "minHeight": 200
+}

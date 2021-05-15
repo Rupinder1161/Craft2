@@ -1,0 +1,26 @@
+{
+  "buttons": [
+    "html",
+    "formatting",
+    "bold",
+    "italic",
+    "unorderedlist",
+    "orderedlist",
+    "link",
+    "image",
+    "video"
+  ],
+  "plugins": [
+    "fullscreen",
+    "video"
+  ],
+  "linkNewTab": true,
+  "toolbarFixed": true,
+  "visual": false,
+  "tabAsSpaces": 2,
+  "cleanOnPaste": false,
+  "cleanSpaces": false,
+  "cleanStyleOnEnter": true,
+  "paragraphize": false,
+  "minHeight": 200
+}
